@@ -1,0 +1,72 @@
+2025-02-28 21:18:29,279 - INFO - Logging is set up.
+2025-02-28 21:18:29,279 - INFO - Logging is set up.
+2025-02-28 21:18:29,281 - INFO - Logging is set up.
+2025-02-28 21:18:29,282 - INFO - Logging is set up.
+2025-02-28 21:19:16,250 - INFO - Logging is set up.
+2025-02-28 21:19:16,251 - INFO - DataLoader initialized.
+2025-02-28 21:19:16,251 - INFO - Loading data from CSV file: data/Meteorite_Landings.csv
+2025-02-28 21:19:16,364 - INFO - Data successfully loaded from CSV.
+2025-02-28 21:19:16,365 - INFO - DataAnalyzer initialized.
+2025-02-28 21:19:16,373 - INFO - Data types analyzed.
+2025-02-28 21:19:16,385 - INFO - Missing values counted.
+2025-02-28 21:19:16,385 - INFO - Missing values report generated.
+2025-02-28 21:19:16,437 - INFO - Data description generated.
+2025-02-28 21:19:16,451 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_description.csv
+2025-02-28 21:19:16,453 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 8
+2025-02-28 21:19:16,462 - INFO - Missing values filled.
+2025-02-28 21:19:16,476 - INFO - Missing values counted.
+2025-02-28 21:19:16,476 - INFO - Missing values report generated.
+2025-02-28 21:19:16,705 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_cleaned_data.csv
+2025-02-28 21:19:17,013 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 45716
+2025-02-28 21:19:17,034 - INFO - Dropped 45716 rows with missing values.
+2025-02-28 21:19:17,036 - WARNING - \u041d\u0435\u0442 \u0434\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0432 CSV.
+2025-02-28 21:21:48,363 - INFO - Logging is set up.
+2025-02-28 21:21:48,364 - INFO - DataLoader initialized.
+2025-02-28 21:21:48,364 - INFO - Loading data from CSV file: data/2015.csv
+2025-02-28 21:21:48,376 - INFO - Data successfully loaded from CSV.
+2025-02-28 21:21:48,376 - INFO - DataAnalyzer initialized.
+2025-02-28 21:21:48,382 - INFO - Data types analyzed.
+2025-02-28 21:21:48,384 - INFO - Missing values counted.
+2025-02-28 21:21:48,384 - INFO - Missing values report generated.
+2025-02-28 21:21:48,407 - INFO - Data description generated.
+2025-02-28 21:21:48,412 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_description.csv
+2025-02-28 21:21:48,413 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 8
+2025-02-28 21:21:48,415 - INFO - Missing values filled.
+2025-02-28 21:21:48,416 - INFO - Missing values counted.
+2025-02-28 21:21:48,416 - INFO - Missing values report generated.
+2025-02-28 21:21:48,418 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_cleaned_data.csv
+2025-02-28 21:21:48,421 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 158
+2025-02-28 21:34:28,690 - INFO - Logging is set up.
+2025-02-28 21:34:28,691 - INFO - DataLoader initialized.
+2025-02-28 21:34:28,691 - INFO - Loading data from CSV file: data/2015.csv
+2025-02-28 21:34:28,694 - INFO - Data successfully loaded from CSV.
+2025-02-28 21:34:28,694 - INFO - DataAnalyzer initialized.
+2025-02-28 21:34:28,701 - INFO - Data types analyzed.
+2025-02-28 21:34:28,703 - INFO - Missing values counted.
+2025-02-28 21:34:28,703 - INFO - Missing values report generated.
+2025-02-28 21:34:28,728 - INFO - Data description generated.
+2025-02-28 21:34:28,735 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_description.csv
+2025-02-28 21:34:28,736 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 8
+2025-02-28 21:34:28,740 - INFO - Missing values filled.
+2025-02-28 21:34:28,741 - INFO - Missing values counted.
+2025-02-28 21:34:28,741 - INFO - Missing values report generated.
+2025-02-28 21:34:28,744 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_cleaned_data.csv
+2025-02-28 21:34:28,746 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 158
+2025-02-28 21:34:28,747 - INFO - DataVisualizer initialized.
+2025-02-28 21:37:37,871 - INFO - Logging is set up.
+2025-02-28 21:37:37,872 - INFO - DataLoader initialized.
+2025-02-28 21:37:37,872 - INFO - Loading data from CSV file: data/2015.csv
+2025-02-28 21:37:37,875 - INFO - Data successfully loaded from CSV.
+2025-02-28 21:37:37,875 - INFO - DataAnalyzer initialized.
+2025-02-28 21:37:37,881 - INFO - Data types analyzed.
+2025-02-28 21:37:37,884 - INFO - Missing values counted.
+2025-02-28 21:37:37,884 - INFO - Missing values report generated.
+2025-02-28 21:37:37,906 - INFO - Data description generated.
+2025-02-28 21:37:37,912 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_data/output_description.csv
+2025-02-28 21:37:37,913 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 8
+2025-02-28 21:37:37,918 - INFO - Missing values filled.
+2025-02-28 21:37:37,918 - INFO - Missing values counted.
+2025-02-28 21:37:37,918 - INFO - Missing values report generated.
+2025-02-28 21:37:37,920 - INFO - \u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 CSV \u0444\u0430\u0439\u043b: output_data/output_cleaned_data.csv
+2025-02-28 21:37:37,922 - INFO - \u0414\u0430\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b \u0432 CSV. \u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u0442\u0440\u043e\u043a: 158
+2025-02-28 21:37:37,922 - INFO - DataVisualizer initialized.
