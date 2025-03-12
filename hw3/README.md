@@ -29,3 +29,10 @@ hw3/
 ├── output_data/ # Папка с выходными данными
 
 └── hw3.ipynb # Реализация в юпитер ноутбуке
+
+##### Датасет: "https://github.com/owid/covid-19-data/raw/master/public/data/latest/owid-covid-latest.csv"
+
+##### Графики
+1. ![График ](output_data/bar_population_by_continent.png)
+2. ![График ](output_data/scatter_population_vs_cases.png)
+1. ![График](output_data/top_50_countries_new_cases.png)
