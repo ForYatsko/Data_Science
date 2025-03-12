@@ -33,6 +33,6 @@ hw3/
 ##### Датасет: "https://github.com/owid/covid-19-data/raw/master/public/data/latest/owid-covid-latest.csv"
 
 ##### Графики
-1. ![График ](output_data/bar_population_by_continent.png)
-2. ![График ](output_data/scatter_population_vs_cases.png)
-1. ![График](output_data/top_50_countries_new_cases.png)
+![График населения по континентам](output_data/bar_population_by_continent.png)
+![График общего колличества случаев](output_data/scatter_population_vs_cases.png)
+![График 50 стран с наибольшим числом новых случаев](output_data/top_50_countries_new_cases.png)
