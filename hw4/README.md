@@ -60,4 +60,4 @@ hw4/
 ![Сравнение метрики F1 score до и после удаления признаков](output_data/combined_f1_score.png)
 ![Сравнение метрики Recall до и после удаления признаков](output_data/combined_recall.png)
 ![Сравнение метрики ROC-AUC до и после удаления признаков](output_data/combined_roc-auc.png)
-![Сравнение метрик топ-5 классификаторов](output_data/top_5_classifiers_metrics.png)
+![Сравнение метрик топ-5 классификаторов, которые лучше подходят для выбранного датасета](output_data/top_5_classifiers_metrics.png)
