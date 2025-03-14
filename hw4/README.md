@@ -53,11 +53,11 @@ hw4/
 └── hw4.ipynb # Реализация в юпитер ноутбуке
 
 ##### Графики
-![График населения по континентам](output_data/class_distribution.png)
-![График общего колличества случаев](output_data/combined_accuracy.png)
-![График населения по континентам](output_data/combined_f1_score.png)
-![График населения по континентам](output_data/combined_recall.png)
-![График общего колличества случаев](output_data/combined_roc-auc.png)
-![График населения по континентам](output_data/correlation_matrix_after.png)
-![График населения по континентам](output_data/correlation_matrix_before.png)
-![График населения по континентам](output_data/top_5_classifiers_metrics.png)
+![Распределение классов целевой переменной](output_data/class_distribution.png)
+![Тепловая диаграмма корреляции (до удаления признаков)](output_data/correlation_matrix_before.png)
+![Тепловая диаграмма корреляции (после удаления признаков](output_data/correlation_matrix_after.png)
+![Сравнение метрики Accuracy до и после удаления признаков](output_data/combined_accuracy.png)
+![Сравнение метрики F1 score до и после удаления признаков](output_data/combined_f1_score.png)
+![Сравнение метрики Recall до и после удаления признаков](output_data/combined_recall.png)
+![Сравнение метрики ROC-AUC до и после удаления признаков](output_data/combined_roc-auc.png)
+![Сравнение метрик топ-5 классификаторов](output_data/top_5_classifiers_metrics.png)
