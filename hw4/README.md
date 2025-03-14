@@ -55,7 +55,7 @@ hw4/
 ##### Графики
 ![График населения по континентам](output_data/class_distribution.png)
 ![График общего колличества случаев](output_data/combined_accuracy.png)
-![График населения по континентам](output_data/combined_f1 score.png)
+![График населения по континентам](output_data/combined_f1_score.png)
 ![График населения по континентам](output_data/combined_recall.png)
 ![График общего колличества случаев](output_data/combined_roc-auc.png)
 ![График населения по континентам](output_data/correlation_matrix_after.png)
