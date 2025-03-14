@@ -53,6 +53,11 @@ hw4/
 └── hw4.ipynb # Реализация в юпитер ноутбуке
 
 ##### Графики
-![График населения по континентам](output_data/bar_population_by_continent.png)
-![График общего колличества случаев](output_data/scatter_population_vs_cases.png)
-![График 50 стран с наибольшим числом новых случаев](output_data/top_50_countries_new_cases.png)
+![График населения по континентам](output_data/class_distribution.png)
+![График общего колличества случаев](output_data/combined_accuracy.png)
+![График населения по континентам](output_data/combined_f1 score.png)
+![График населения по континентам](output_data/combined_recall.png)
+![График общего колличества случаев](output_data/combined_roc-auc.png)
+![График населения по континентам](output_data/correlation_matrix_after.png)
+![График населения по континентам](output_data/correlation_matrix_before.png)
+![График населения по континентам](output_data/top_5_classifiers_metrics.png)
