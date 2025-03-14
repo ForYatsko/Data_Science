@@ -29,15 +29,25 @@
 hw5/
 
 ├── hw5.ipynb                    # Реализация в юпитер ноутбуке
+
 ├── requirements.txt             # Список зависимостей для установки
+
 ├── regressor.py                 # Модуль для создания регрессоров
+
 ├── save.py                      # Модуль для сохранения результатов
+
 ├── visualization.py             # Модуль для построения графиков
+
 ├── my_logging.py                # Настройка логирования
+
 ├── output/                      # Папка для сохранения графиков и результатов
+
 │   ├── predictions_vs_actual.png    # График предсказаний и истинных значений
+
 │   ├── residuals_distribution.png   # График распределения остатков
+
 │   ├── residuals_vs_predictions.png # График остатков против предсказаний
+
 └── README.md                    # Описание проекта
 
 ##### Датасет: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
