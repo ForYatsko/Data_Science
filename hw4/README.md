@@ -25,12 +25,16 @@
 
 ✓ SVM - линейное ядро.
 
-Для классификации использовался датасет load_breast_cancer из библиотеки sklearn.
+##### Для классификации использовался датасет load_breast_cancer из библиотеки sklearn.
 
 
 ##### Структура проекта
 
-hw3/
+hw4/
+
+├── classification.py # Модуль для сравнения классификаторов
+
+├── data_analysis.py # Модуль для логгирования
 
 ├── data_loader.py # Модуль для загрузки данных
 
@@ -38,15 +42,15 @@ hw3/
 
 ├── save.py # Модуль для сохранения
 
+├── visualization.py # Модуль для визуализации
+
 ├── README.md # Документация
 
-├── data/ # Папка с данными
+├── requirements.txt # Зависимости
 
 ├── output_data/ # Папка с выходными данными
 
-└── hw3.ipynb # Реализация в юпитер ноутбуке
-
-##### Датасет: "https://github.com/owid/covid-19-data/raw/master/public/data/latest/owid-covid-latest.csv"
+└── hw4.ipynb # Реализация в юпитер ноутбуке
 
 ##### Графики
 ![График населения по континентам](output_data/bar_population_by_continent.png)
