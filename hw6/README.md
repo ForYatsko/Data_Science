@@ -15,33 +15,41 @@
     7. Решить задачу поиска аномалий.
     
     8. Визуализация. Создать графики ошибок прогнозирования, метрик качества обученной модели и важности признаков.
-    
-
+  
 ##### Структура проекта
 
-hw5/
+hw6/
 
-├── hw5.ipynb                    # Реализация в юпитер ноутбуке
+📦 crypto_forecasting_project/
+├── 📂 data/                       # Данные
+│   └── coin_Bitcoin.csv           # Исторические данные о криптовалюте
+├── my_log.log                     # Лог-файл с информацией о выполнении программы
+├── 📂 output/                     # Вывод результатов
+│   ├── 📂 visualizations/         # Графики и визуализации
 
-├── requirements.txt             # Список зависимостей для установки
+│   │   ├── ensemble_predictions.png  # График прогнозов ансамбля
+│   │   └── anomalies_with_model.png  # График с аномалиями
+│   └── metrics.json               # Метрики моделей
+├── 📂 src/                        # Исходный код
+│   ├── __init__.py                # Указание, что это пакет
+│   ├── main.py                    # Главный скрипт программы
+│   ├── logging_config.py          # Настройка логирования
+│   ├── data_processing.py         # Обработка данных
+│   ├── eda.py                     # Исследовательский анализ данных
+│   ├── visualization.py           # Функции для визуализации
+│   ├── model_training.py          # Обучение моделей
+│   ├── anomaly_detection.py       # Обнаружение аномалий
+│   └── improvements.py            # Улучшения модели (взвешенный ансамбль и др.)
+├── 📂 tests/                      # Тесты
+│   ├── test_data_processing.py    # Тесты для обработки данных
+│   ├── test_model_training.py     # Тесты для обучения моделей
+│   └── test_anomaly_detection.py  # Тесты для обнаружения аномалий
+├── .gitignore                     # Исключение файлов из репозитория
+├── README.md                      # Документация проекта
+├── requirements.txt               # Зависимости Python
+└── LICENSE                        # Лицензия проекта
 
-├── regressor.py                 # Модуль для создания регрессоров
 
-├── save.py                      # Модуль для сохранения результатов
-
-├── visualization.py             # Модуль для построения графиков
-
-├── my_logging.py                # Настройка логирования
-
-├── output/                      # Папка для сохранения графиков и результатов
-
-│   ├── predictions_vs_actual.png    # График предсказаний и истинных значений
-
-│   ├── residuals_distribution.png   # График распределения остатков
-
-│   ├── residuals_vs_predictions.png # График остатков против предсказаний
-
-└── README.md                    # Описание проекта
 
 ##### Датасет: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
 
